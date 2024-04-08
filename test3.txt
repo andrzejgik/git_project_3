@@ -1,1 +1,1 @@
-pcnpwncwpncwp
+print('Hello world')
