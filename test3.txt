@@ -1,5 +1,2 @@
 print('Hello world')
-print('zmiana 2')
-print('hello from devel')
-print('zmiana 1')
-piwenweinfwpinf[owen
+print('hello from master')
