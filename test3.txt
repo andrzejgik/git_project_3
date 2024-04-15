@@ -1,2 +1,4 @@
 print('Hello world')
-print('hello from master')
+print('zmiana 2')
+print('hello from devel')
+print('zmiana 1')
